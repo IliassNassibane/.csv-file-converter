@@ -1,18 +1,8 @@
 ------------------------------------------------------------------------------------
 
 # .csv-file-converter
-This is a program I build to help an organization where I worked for a short while.
 
-------------------------------------------------------------------------------------
-this Readme file has been written in dutch.
-
------------------------------------------------------------------------------------
-.csv file converter
 Gemaakt door: Iliass Nassibane
------------------------------------------------------------------------------------
-
------------------------------------------------------------------------------------
-Read Me	
 -----------------------------------------------------------------------------------
 
 -----------------------------------------------------------------------------------
@@ -40,7 +30,7 @@ De huidige build staat ingesteld op de huidige configuratie dat gebruik maakt va
 in de code om te kunnen refereren naar de locaties voor de daadwerkelijke boekenbonnen, op de Exact server.
 
 -----------------------------------------------------------------------------------
-||	    --- Vereisten om het programma te kunnen gebruiken ---		 ||
+--- Vereisten om het programma te kunnen gebruiken ---
 -----------------------------------------------------------------------------------
 
 1. Plaats alles in een map op de C schijf, onder de benaming van "Boekenbonnen_verwerker".
@@ -50,7 +40,7 @@ bestanden horen in de "01 - Van" map te zitten van deze twee locaties:
 		-	C:\Boekenbonnen_verwerker\ConfigTestFolder
 
 -----------------------------------------------------------------------------------
-||			--- Voorbeeld van running test ---			 ||
+--- Voorbeeld van running test ---
 -----------------------------------------------------------------------------------
 
 Dit is een running test met de huidige instellingen in de codebase en config bestand:
